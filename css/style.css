@@ -1,0 +1,29 @@
+#title{
+    text-align: center;
+    background: #eee;
+    padding: 30px 20px;
+}
+#img-div{
+    text-align: center;
+    background: white;
+}
+#image{
+    display: block;
+    max-width: 100%;
+    margin: auto;
+}
+body{
+    background: #eee;
+    text-align: center;
+}
+#img-caption{
+    padding: 10px;
+}
+#tribute-info ul{
+    max-width: 600px;
+    text-align: left;
+    margin:auto;
+}
+#tribute-info li{
+    margin:15px;
+}
